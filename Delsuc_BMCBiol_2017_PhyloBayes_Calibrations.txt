@@ -1,0 +1,19 @@
+13
+Homo_sapiens Xenopus_laevis 350 330
+Homo_sapiens Petromyzon_marinus 581 461
+Eucidaris_tribuloides Strongylocentrotus_purpuratus -1 255
+Homo_sapiens Monodelphis_domestica 171 124
+Homo_sapiens Ornithorhynchus_anatinus 191 163
+Homo_sapiens Gallus_gallus 330 312
+Anolis_carolinensis Gallus_gallus 300 256
+Ambystoma_mexicanum Xenopus_laevis 299 200
+Homo_sapiens Danio_rerio 422 416
+Oreochromis_niloticus Danio_rerio 165 150
+Homo_sapiens Callorhinchus_milii 463 422
+Homo_sapiens Ciona_robusta 581 519
+Homo_sapiens Branchiostoma_floridae 581 519
+
+
+
+
+
