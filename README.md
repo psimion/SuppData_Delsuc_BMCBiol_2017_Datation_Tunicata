@@ -55,7 +55,5 @@ Polyandrocarpa maxima
 Styela plicata
 
 **based on Illumina data**  
-Doliolum nationalis*
+Doliolum nationalis
 Salpa fusiformis
-
-* Doliolum transcriptome redundancy has been reduced by only retaining the longuest isoform per gene.
