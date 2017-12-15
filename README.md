@@ -38,3 +38,24 @@ Chronogram corresponding to Figure S1 - uncorrelated gamma multipliers - CAT+GTR
 
 **Delsuc_BMCBiol_2017_PhyloBayes_Calibrations.txt**
 Input text file containing the list of calibration points used in the study.
+
+
+## Transcriptome assemblies
+
+**based on 454 data**  
+Bostrichobranchus pilularis
+Clavelina lepadiformis
+Cystodytes dellechiajei
+Distomus variolosus
+Microcosmus squamiger
+Molgula manhattensis
+Molgula occidentalis
+Phallusia mammillata
+Polyandrocarpa maxima
+Styela plicata
+
+**based on Illumina data**  
+Doliolum nationalis*
+Salpa fusiformis
+
+* Doliolum transcriptome redundancy has been reduced by only retaining the longuest isoform per gene.
