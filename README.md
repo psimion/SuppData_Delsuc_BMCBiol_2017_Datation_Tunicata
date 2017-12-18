@@ -11,7 +11,7 @@ Frédéric Delsuc, Hervé Philippe, Georgia Tsagkogeorga, Paul Simion, Marie-Ka 
 **Delsuc_BMCBiol_2017_Supermatrix_seqCat.nex**  
 Nexus file containing the 258 trimmed single-gene alignements as used for building a supermatrix.
 
-**258_genes_raw**  
+**Delsuc_BMCBiol_2017_258_genes_raw**  
 This folder contains the 258 initial single-gene alignments (fasta format) before any post-processing.
 
 **Delsuc_BMCBiol_2017_Supermatrix.fasta**  
