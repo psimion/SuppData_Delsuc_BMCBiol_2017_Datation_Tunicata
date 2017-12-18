@@ -1,10 +1,9 @@
-SuppData_Delsuc_BMCBiol_2017_Datation_Tunicata
+SuppData_Delsuc_BMCBiol_2017_Dating_Tunicata
 ---
 
 This repository contains supplemental materials from :
 
-Frédéric Delsuc, Hervé Philippe, Georgia Tsagkogeorga, Paul Simion, Marie-Ka Tilak, Xavier Turon, Susana López-Legentil, Jacques Piette, Patrick Lemaire, Emmanuel JP Douzery. A phylogenomic framework and timescale for comparative genomics and evolutionary
-developmental biology of tunicates. BMC Biology, Available online ****** 2017, ISSN ******, http://*****.
+Frédéric Delsuc, Hervé Philippe, Georgia Tsagkogeorga, Paul Simion, Marie-Ka Tilak, Xavier Turon, Susana López-Legentil, Jacques Piette, Patrick Lemaire, Emmanuel JP Douzery. A phylogenomic framework and timescale for comparative genomics and evolutionary developmental biology of tunicates. BioRxiv
 
 
 ## Dataset
@@ -12,7 +11,7 @@ developmental biology of tunicates. BMC Biology, Available online ****** 2017, I
 **Delsuc_BMCBiol_2017_Supermatrix_seqCat.nex**  
 Nexus file containing the 258 trimmed single-gene alignements as used for building a supermatrix.
 
-**258_genes_raw**
+**258_genes_raw**  
 This folder contains the 258 initial single-gene alignments (fasta format) before any post-processing.
 
 **Delsuc_BMCBiol_2017_Supermatrix.fasta**  
@@ -39,7 +38,7 @@ Chronogram corresponding to Figure S1 - uncorrelated gamma multipliers - CAT+GTR
 
 ## Calibrations
 
-**Delsuc_BMCBiol_2017_PhyloBayes_Calibrations.txt**
+**Delsuc_BMCBiol_2017_PhyloBayes_Calibrations.txt**  
 Input text file containing the list of calibration points used in the study.
 
 
