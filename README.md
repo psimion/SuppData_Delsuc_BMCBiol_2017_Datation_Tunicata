@@ -53,7 +53,7 @@ Microcosmus squamiger
 Molgula manhattensis  
 Molgula occidentalis  
 Phallusia mammillata  
-Polyandrocarpa maxima  
+Polyandrocarpa anguinea  
 Styela plicata
 
 **based on Illumina data**  
