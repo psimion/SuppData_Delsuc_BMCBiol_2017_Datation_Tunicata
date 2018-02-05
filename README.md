@@ -46,16 +46,16 @@ Input text file containing the list of calibration points used in the study.
 
 **based on 454 data**  
 *Bostrichobranchus pilularis*  
-Clavelina lepadiformis  
-Cystodytes dellechiajei  
-Distomus variolosus  
-Microcosmus squamiger  
-Molgula manhattensis  
-Molgula occidentalis  
-Phallusia mammillata  
-Polyandrocarpa anguinea  
-Styela plicata
+*Clavelina lepadiformis*  
+*Cystodytes dellechiajei*  
+*Distomus variolosus*  
+*Microcosmus squamiger*  
+*Molgula manhattensis*  
+*Molgula occidentalis*  
+*Phallusia mammillata*  
+*Polyandrocarpa anguinea*  
+*Styela plicata*
 
 **based on Illumina data**  
-Doliolum nationalis  
-Salpa fusiformis  
+*Doliolum nationalis*  
+*Salpa fusiformis*  
