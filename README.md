@@ -35,6 +35,9 @@ Chronogram corresponding to Figure 3 - log-normal autocorrelated relaxed clock -
 **Delsuc_BMCBiol_2018_FigS1_PhyloBayes_FigTree_Chronogram_UGAM_CAT-GTR-G.tree**  
 Chronogram corresponding to Figure S1 - uncorrelated gamma multipliers - CAT+GTR+G4 (Phylobayes)
 
+**Delsuc_BMCBiol_2018_FigS2_PhyloBayes_FigTree_Chronogram_Xeno_root_LN_CAT-F81-G.tree**  
+Chronogram corresponding to Figure S2 - Xenoturbella rooting - log-normal autocorrelated relaxed clock - CAT+F81+G4 (Phylobayes)
+
 
 ## Calibrations
 
