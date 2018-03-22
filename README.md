@@ -3,7 +3,7 @@ SuppData_Delsuc_BMCBiol_2018_Dating_Tunicata
 
 This repository contains supplemental materials from :
 
-Frédéric Delsuc, Hervé Philippe, Georgia Tsagkogeorga, Paul Simion, Marie-Ka Tilak, Xavier Turon, Susana López-Legentil, Jacques Piette, Patrick Lemaire, Emmanuel JP Douzery. A phylogenomic framework and timescale for comparative studies of tunicates. BMC Biology, *in press* (https://doi.org/10.1186/s12915-018-0499-2)
+Frédéric Delsuc, Hervé Philippe, Georgia Tsagkogeorga, Paul Simion, Marie-Ka Tilak, Xavier Turon, Susana López-Legentil, Jacques Piette, Patrick Lemaire, Emmanuel JP Douzery. **A phylogenomic framework and timescale for comparative studies of tunicates**. BMC Biology, *in press*
 
 
 ## Dataset
