@@ -3,7 +3,7 @@ SuppData_Delsuc_BMCBiol_2018_Dating_Tunicata
 
 This repository contains supplemental materials from :
 
-Frédéric Delsuc, Hervé Philippe, Georgia Tsagkogeorga, Paul Simion, Marie-Ka Tilak, Xavier Turon, Susana López-Legentil, Jacques Piette, Patrick Lemaire, Emmanuel JP Douzery. A phylogenomic framework and timescale for comparative genomics and evolutionary developmental biology of tunicates. BioRxiv
+Frédéric Delsuc, Hervé Philippe, Georgia Tsagkogeorga, Paul Simion, Marie-Ka Tilak, Xavier Turon, Susana López-Legentil, Jacques Piette, Patrick Lemaire, Emmanuel JP Douzery. A phylogenomic framework and timescale for comparative studies of tunicates. BMC Biology, *in press* (https://doi.org/10.1186/s12915-018-0499-2)
 
 
 ## Dataset
@@ -51,7 +51,7 @@ Input text file containing the list of calibration points used in the study.
 *Bostrichobranchus pilularis*  
 *Clavelina lepadiformis*  
 *Cystodytes dellechiajei*  
-*Distomus variolosus*  
+*Dendrodoa grossularia*  
 *Microcosmus squamiger*  
 *Molgula manhattensis*  
 *Molgula occidentalis*  
