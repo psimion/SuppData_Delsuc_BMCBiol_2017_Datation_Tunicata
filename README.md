@@ -47,6 +47,10 @@ Input text file containing the list of calibration points used in the study.
 
 ## Transcriptome assemblies
 
+**based on Illumina data**  
+*Doliolum nationalis*  
+*Salpa fusiformis*  
+
 **based on 454 data**  
 *Bostrichobranchus pilularis*  
 *Clavelina lepadiformis*  
@@ -57,8 +61,6 @@ Input text file containing the list of calibration points used in the study.
 *Molgula occidentalis*  
 *Phallusia mammillata*  
 *Polyandrocarpa anguinea*  
-*Styela plicata*
+*Styela plicata*  
 
-**based on Illumina data**  
-*Doliolum nationalis*  
-*Salpa fusiformis*  
+Note that SRA data for *Dendrodoa grossularia* sample was at first misidentified as a *Distomus variolosus*. SRA files were updated, but there might still be some remnants of this misidentification in NCBI metadata for which we apologize : *Dendrodoa grossularia* is the correct name for the sample SAMN08006787, the experiment SRX3426265 and the run SRR6326581.
